@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.delaroystudios.studentmgt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:8:5-10:41
+8        android:minSdkVersion="8"
+8-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:9:9-34
+9        android:targetSdkVersion="17" />
+9-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:10:9-38
+10
+11    <application
+11-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:12:5-25:19
+12        android:allowBackup="true"
+12-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:13:9-35
+13        android:debuggable="true"
+14        android:label="Use of DataBase"
+14-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:14:9-40
+15        android:testOnly="true"
+16        android:theme="@style/AppTheme" >
+16-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:15:9-40
+17        <activity android:name="com.delaroystudios.studentmgt.StudentMainActivity" >
+17-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:16:9-24:20
+17-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:17:13-77
+18            <intent-filter>
+18-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:19:13-23:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:20:17-69
+19-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:20:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:22:17-77
+21-->C:\Users\Muhammad Zohaib\Desktop\sms1\Student Management ANDROID\AndroidStudentMgt\app\src\main\AndroidManifest.xml:22:27-74
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>

@@ -1,0 +1,4 @@
+#Sat Jul 02 00:46:47 PKT 2022
+base.0=C\:\\Users\\Muhammad Zohaib\\Desktop\\sms1\\Student Management ANDROID\\AndroidStudentMgt\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
